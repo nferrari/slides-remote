@@ -8,6 +8,4 @@ Talk dates:
 
 See it online: http://slides.alwaysdata.com/201502_remote/
 
-Generated with `Hovercraft`_
-
-.. _Hovercraft: https://github.com/regebro/hovercraft
+Generated with Hovercraft: https://github.com/regebro/hovercraft
